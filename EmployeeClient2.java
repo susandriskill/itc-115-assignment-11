@@ -1,5 +1,5 @@
 //------------------------------------------------------------------------------
-//A client program to test the Lawyer and LegalSecretary classes.
+//A client program to test the classes.
 
 public class EmployeeClient2 {
 

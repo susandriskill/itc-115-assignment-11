@@ -1,5 +1,5 @@
 //------------------------------------------------------------------------------
-//A client program to test the Employee classes.
+//A client program to test the employee classes.
 
 public class EmployeeClient {
 
