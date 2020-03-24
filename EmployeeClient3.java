@@ -9,11 +9,19 @@ public class EmployeeClient3 {
 		Lawyer lucy = new Lawyer();
 		Secretary stan = new Secretary();
 		LegalSecretary leo = new LegalSecretary();
+		Marketer mark = new Marketer();
+		Janitor joe = new Janitor();
+		HarvardLawyer hallie = new HarvardLawyer();
+		
+		
 		
 		printInfo(edna);
 		printInfo(lucy);
 		printInfo(stan);
 		printInfo(leo);
+		printInfo(mark);
+		printInfo(joe);
+		printInfo(hallie);
 	}
 	
 	//Prints information about any kind of employee.
